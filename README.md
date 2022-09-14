@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rahul-Rasve
 - 👀 I’m interested in Machine Learning and Web/App Development
-- 🌱 I’m currently learning C++, Java, HTML, CSS, JavaScript
+- 🌱 Keen to learn new Programming Languages
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 
