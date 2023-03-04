@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rahul Rasve</h1>
 
-<h2 align="left">Java and Android Developer</h3>
+<h2 align="left">Flutter Developer</h3>
 
-- 🌱 I’m currently learning **Flutter with Dart**
+- 🌱 I’m currently an **Engineering Student**
 
-- 💬 Ask me about **DSA and OOP**
+- 💬 Ask me about **DSA, OOP & Flutter**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
