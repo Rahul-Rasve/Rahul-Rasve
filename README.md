@@ -2,7 +2,7 @@
 
 <h2 align="left">Flutter Developer</h3>
 
-- 🌱 I’m currently an **Computer Engineering Student**
+- 🌱 I’m currently a **Computer Engineering Student**
 
 - 💬 Ask me about **DSA, OOP & Flutter**
 
